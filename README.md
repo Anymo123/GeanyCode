@@ -1,0 +1,2 @@
+# GeanyCode
+python
