@@ -1,2 +1,2 @@
 # GeanyCode
-python
+python 学习开发
