@@ -3,7 +3,7 @@ import datetime
 # 获取时间
 curr_time = datetime.datetime.now()
 new_time = curr_time.strftime("%Y年%m月%d日")
-day = curr_time.strftime("%d")
+day = int(curr_time.strftime("%d")) - 1
 muth = curr_time.strftime("%m")
 print(new_time)
 print(day)
